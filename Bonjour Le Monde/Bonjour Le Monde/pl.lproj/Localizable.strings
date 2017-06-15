@@ -1,0 +1,30 @@
+/* Displayed in table cells of list of Professionals, Example: Architects in Berlin. Placeholders: #1: Type of professional, #2: Name of city/location. */
+"%1$@ in %2$@" = "%1$@ w %2$@";
+
+/* Number of reviews, displayed in table cells. Can be about 20 characters long. */
+"%d review(s)" = "%d Opinie)";
+
+/* Type of professional - normally this would be part of an API response. */
+"Architects" = "Architekci";
+
+/* Name of city/location for professional - normally this would be part of an API response. */
+"Berlin" = "Berlin";
+
+/* Legal disclaimer displayed at bottom of Sign up screens, Final text in English reads - By registering, you agree to the Terms & Conditions */
+"By registering, you agree to the %@" = "Rejestrując się, wyrażasz zgodę na %@";
+
+/* Application main caption - can be 1-2 sentences long */
+"Find inspiration and collect ideas for your home" = "Znajdź inspirację i zebraj pomysły do Twojego dom";
+
+/* The default greeting used by coders since 1972! Must fit on navigation bar title */
+"Hello World!" = "Witaj świecie!";
+
+/* A text with quotes, please use the quotation marks suitable for your language. Normal quotes must use a slash in front of the quote marks (Escape character) */
+"My favourite quote is \"Insert quote here\"!" = "Moim ulubionym cytatem jest \"Vind inspiratie en verzamel idee en voor uw huis\"";
+
+/* Just using this to depict how we might need to consider more Escape characters such as a slash */
+"Sometimes we need special characters like a Slash \\ Darth Vader, maybe?!" = "Czasami potrzebujemy specjalnych postaci, takich jak Slash \\ Darth Vader, być może ?!";
+
+/* Part of Legal disclaimer displayed at bottom of Sign up screens, Final text in English reads - By registering, you agree to the Terms & Conditions */
+"Terms & Conditions" = "Warunki";
+

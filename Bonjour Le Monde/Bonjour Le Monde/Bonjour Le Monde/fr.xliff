@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Bonjour Le Monde/Info.plist" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>Hello World!</source>
+        <target>Bonjour le monde</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
+        <source>homify needs your location to find Professionals near you</source>
+        <target>homify a besoin de connaître votre localisation pour trouver des professionnels proches de chez vous.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Bonjour Le Monde/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="%1$@ in %2$@">
+        <source>%1$@ in %2$@</source>
+        <target>%1$@ in %2$@</target>
+        <note>First placeholder is type of professional, second one is name of city. Example: Architects in Berlin</note>
+      </trans-unit>
+      <trans-unit id="%d review(s)">
+        <source>%d review(s)</source>
+        <target>%d review(s)</target>
+        <note>Number of reviews, displayed in cells. Can be about 20 characters long.</note>
+      </trans-unit>
+      <trans-unit id="Architects">
+        <source>Architects</source>
+        <target>Architects</target>
+        <note>Type of professional - normally this would be part of an API response.</note>
+      </trans-unit>
+      <trans-unit id="Berlin">
+        <source>Berlin</source>
+        <target>Berlin</target>
+        <note>Name of location for professionals - normally this would be part of an API response.</note>
+      </trans-unit>
+      <trans-unit id="By registering, you agree to the %@">
+        <source>By registering, you agree to the %@</source>
+        <target>By registering, you agree to the %@</target>
+        <note>Legal disclaimer displayed at bottom of Sign up screens, Final text in English reads - By registering, you agree to the Terms of Service</note>
+      </trans-unit>
+      <trans-unit id="Find inspiration and collect ideas for your home">
+        <source>Find inspiration and collect ideas for your home</source>
+        <target>Find inspiration and collect ideas for your home</target>
+        <note>Application main caption - can be 1-2 sentenced long</note>
+      </trans-unit>
+      <trans-unit id="Hello World!">
+        <source>Hello World!</source>
+        <target>Hello World!</target>
+        <note>The default greeting used by coders since 1972! Must fit on navigation bar title</note>
+      </trans-unit>
+      <trans-unit id="Terms of Service">
+        <source>Terms of Service</source>
+        <target>Terms of Service</target>
+        <note>Part of Legal disclaimer displayed at bottom of Sign up screens, Final text in English reads - By registering, you agree to the Terms of Service</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

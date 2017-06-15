@@ -1,0 +1,5 @@
+/* Name of the application as displayed on the device Home screen and in permission dialogs, settings, etc. */
+"CFBundleName" = "Hello World!";
+
+/* Message displayed by iOS (in phone language) when app tries to access location and needs user's permission to do so*/
+"NSLocationWhenInUseUsageDescription" = "homify needs your location to find Professionals near you";
